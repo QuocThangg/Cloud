@@ -1,0 +1,7 @@
+#svgelem{
+            position: relative;
+            left: 50%;
+            -webkit-transform: translateX(-40%);
+            -ms-transform: translateX(-40%);
+            transform: translateX(-40%);
+}
