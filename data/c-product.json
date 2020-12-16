@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "5f924bb17098118a321236a6"
+  },
+  "id": "123",
+  "name": "Quạt máy",
+  "price": 120000,
+  "information": "Quạt nhỏ, 220v, 50w",
+  "img": "prd-123.jpg"
+},{
+  "_id": {
+    "$oid": "5f924c22dc784036088ea81a"
+  },
+  "id": "211",
+  "name": "Quạt trần",
+  "price": 320000,
+  "information": "Quạt công suất lớn, 220v, 250w",
+  "img": "prd-211.jpg"
+},{
+  "_id": {
+    "$oid": "5f9f79cee0e5bf45640e7bbe"
+  },
+  "id": "3456",
+  "name": "Đồ chơi trẻ",
+  "price": 34000,
+  "information": "do choi dung 1 lan",
+  "img": "svvsd"
+},{
+  "_id": {
+    "$oid": "5f9f7b84e0e5bf45640e7bbf"
+  },
+  "id": "3456",
+  "name": "Đồ chơi trẻ",
+  "price": 34000,
+  "information": "do choi dung 1 lan",
+  "img": "svvsd"
+},{
+  "_id": {
+    "$oid": "5f9f80238e98fa0660b0bd3f"
+  },
+  "id": "111",
+  "name": "111",
+  "price": 111,
+  "information": "111",
+  "img": "17.jpg"
+},{
+  "_id": {
+    "$oid": "5f9f80b12f0ae449100834e3"
+  },
+  "id": "333",
+  "name": "333",
+  "price": 333,
+  "information": "333",
+  "img": "15.jpg"
+},{
+  "_id": {
+    "$oid": "5f9f81e258e8892a3c134022"
+  },
+  "id": "444",
+  "name": "444",
+  "price": 444,
+  "information": "444",
+  "img": "9.jpg"
+}]
