@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>   
+      <%- include('./layout/head'); %> 
+    </head>
+
+    <body>
+    
+    <%- include('./layout/header'); %> 
+    
+	<main role="main">
+
+        <div class="jumbotron">
+			<div class="container">
+			  <h1 class="display-3">Catalog</h1>
+			  
+			</div>
+		</div>
+
+
+        <div class="container" style="text-align: center;" >
+                <div class="row">
+                    <%products.forEach(function(product) { %>
+                        <%- include('product-one', {product: product}); %>
+                    <% }); %>
+                </div>
+        </div>
+    </main>
+          
+
+    </body>
+</html> 
