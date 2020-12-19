@@ -1,14 +1,14 @@
 var DBconfigs = {
     localdb: {
-        urldb: 'mongodb://localhost:27017/tqtgearvn',
-        dbname: "tqtgearvn",
+        urldb: 'mongodb://localhost:27017/tqtmoto',
+        dbname: "tqtmoto",
         dbusername: "",
         dbpassword: "",
     },
 
     clouddb: {
-        urldb: "mongodb+srv://db02:mrZs7pMNx6PccYSD@cluster0.q8a6f.mongodb.net/newshop?retryWrites=true&w=majority",
-        dbname: "newshop",
+        urldb: "mongodb+srv://quocthang:0989282393@cluster0.ldk3d.mongodb.net/<dbname>?retryWrites=true&w=majority",
+        dbname: "tqtm",
         dbusername: "",
         dbpassword: "",
     }

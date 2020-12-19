@@ -3,15 +3,15 @@ var router = express.Router();
 
 /// --- Code CONTROLLERs
 router.use(function timeLog(req, res, next) {
-    console.log('\n\t LOGIN controller - Time: ', Date().toString());
+    console.log('\n\t PAYMENT controller - Time: ', Date().toString());
     next();
 })
 
 /////..................................................
-router.get('/', loginPage);
+router.get('/', paymentPage);
 
-function loginPage(req, res) {
-    res.render("login");
+function paymentPage(req, res) {
+    res.render("payment");
 }
 
 
